@@ -132,7 +132,7 @@ To reproduce benchmarks you can run the following commands.
 Tested, on Linux, but should work for most operating systems.
 
 ```shell
-git clone https://github.com/etemesi254/zune-image
+git clone https://github.com/jamesgarcia20p/zune-image
 cd ./zune-image
 cargo bench --workspace
 ```
